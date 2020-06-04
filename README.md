@@ -1,2 +1,2 @@
 # newproject
-practice
+Example project using Pycharm and Git on Ubuntu.
